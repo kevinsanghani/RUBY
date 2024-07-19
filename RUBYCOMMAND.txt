@@ -1,0 +1,4 @@
+rails new mywebsite index
+cd mywebsite
+mywebsite$ rails g controller article  index
+mywebsite$ rails s
